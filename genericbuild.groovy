@@ -32,4 +32,5 @@ node {
 	stage('Push Artifacts'){
 		echo 'Pushing to Artifcatory...'
 	}
+    }
 }
